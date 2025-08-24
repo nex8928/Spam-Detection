@@ -176,7 +176,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **NevroHelios**
-- Email: [dasharka05@gmail.com](mailto:dasharka05@gmail.com)
 - GitHub: [@NevroHelios](https://github.com/NevroHelios)
 
 ## 🙏 Acknowledgments
