@@ -175,8 +175,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**NevroHelios**
-- GitHub: [@NevroHelios](https://github.com/NevroHelios)
+**Nipun Gahane**
+- GitHub: [@nex8928](https://github.com/nex8928)
 
 ## 🙏 Acknowledgments
 
